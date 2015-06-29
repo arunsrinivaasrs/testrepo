@@ -1,7 +1,4 @@
 Moving master ahead
-<<<<<<< HEAD
 Editing same second line from saho
-=======
-Editing second file from master
 Adding third line
->>>>>>> master
+
